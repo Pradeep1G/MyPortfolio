@@ -91,7 +91,7 @@ function App() {
       <div className='flex justify-center items-center'>
       <img  src={image5}></img></div>
 
-          <div className='flex justify-center items-center text-4xl md:text-8xl font-bold'>
+          <div className='flex justify-center items-center text-4xl md:text-8xl font-bold font-serif'>
 
               <h1>I'm Pradeep</h1>
           </div>
