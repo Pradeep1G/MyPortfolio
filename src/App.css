@@ -1,0 +1,21 @@
+
+
+
+/* Custom border class with increased dots size */
+.custom-border {
+  border-width: 100; /* Adjust the border width as needed */
+  /* border-style: dotted; */
+  /* border-color: #8B5CF6; */
+   /* Adjust the border color as needed */
+  /* border-image-source: linear-gradient(transparent 1px, #8B5CF6 1px); */
+  /* border-image-slice: 1; */
+}
+
+hr {
+  width: 4%;
+  color: #EAF6F6;
+  border: dotted;
+  border-width: 25px;
+  border-bottom: none;
+  /* margin: 100px auto 60px; */
+}
