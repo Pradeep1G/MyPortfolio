@@ -164,7 +164,10 @@ function App() {
 
 
       <div className='pt-10 pb-10 bg-black text-purple-600'>
-        <div className='flex items-center'>
+      <div className='flex justify-center items-center text-5xl font-bold pb-8'>
+      <p>My Projects</p>
+      </div>
+        <div className='flex justify-center items-center'>
           <div className='md:text-8xl text-6xl cursor-pointer' onClick={handlePrevProject}>
             <RiArrowLeftSLine />
           </div>
